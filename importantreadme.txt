@@ -1,0 +1,1 @@
+You must change the location of files (Database.txt ,seq.txt ,Transactions.txt) in server.c file to your file locations
